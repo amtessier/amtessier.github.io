@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anne-Michelle Tessier / Phonologist, etc."
+title                    : "Anne-Michelle Tessier"
 title_separator          : "-"
 name                     : &name "Anne-Michelle Tessier"
 description              : &description "personal description"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Anne-Michelle Tessier"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I study phonology, language acquisition, constraint-based grammars, and other things... at UMichigan, Simon Fraser, and soon UBC."
   location         : 
   employer         :
   googlescholar    : 
-  email            : "tessiera at umich dot edu"
+  email            : "tessiera@umich.edu"
   uri              :
   bitbucket        :
   codepen          :
