@@ -1,16 +1,13 @@
 ---
 permalink: /
-title: "AMT's academic website"
+title: "Welcome to AMT's academic website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hello and welcome.
-======
-Welcome to my academic website, whose main purpose is to let you access whatever academic work I've done in phonology and allied fields, and whose secondary purpose is to lay out the slightly complicated explanation of my affiliations, as they have been the subject of some confusion and with good reason. 
+This website's main purpose is to let you access whatever academic work I've done in phonology and allied fields. Its current secondary purpose is to lay out the slightly complicated explanation of my affiliations, as they have been the subject of some confusion and with good reason. 
 
 Where am I, When and How?
 -----
