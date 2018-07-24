@@ -2,7 +2,7 @@
 title: "Phonological Acquisition: Child Language and Constraint-Based Grammar"
 collection: publications
 permalink: /publication/TessierLearnability2017
-excerpt: 'This is an intermediate-level textbook aimed at analyzing child speech patterns and their analogues among adult languages while also teaching the basics of Optimality Theory.
+excerpt: 'This is an intermediate-level textbook aimed at analyzing child speech patterns and their analogues among adult languages while also teaching the basics of Optimality Theory.'
 date: 2015-09-30
 venue: 'Palgrave Macmillan'
 paperurl: 'https://www.macmillanihe.com/page/detail/?sf1=barcode&st1=9780230293762'
