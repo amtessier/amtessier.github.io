@@ -20,10 +20,12 @@ Appointments
 * 2011-2012: Visiting Assistant Professor and Language Learning Research Fellow, Linguistics, University of Michigan
 * 2013-2016: Associate Professor, Linguistics, University of Alberta
 
+
 * 2016-2017: Lecturer I, Linguistics, University of Michigan
 * 2017-2018: Lecturer I, Psychology, University of Michigan
 * 2017-present: Research Investigator, Center for Human Growth and Development, University of Michigan
 * 2017-present: Adjunct Professor, Linguistics, Simon Fraser University
+
 
 * 2019- Assistant Professor, Linguistics, University of British Columbia
   
