@@ -11,31 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.A. Honours, Linguistics, McGill University, 2001 - Thesis Advisor Heather Goad
+* Ph.D., Linguistics, UMass Amherst, 2007 - Advisor Joe Pater
 
-Work experience
+Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2006-2012: Assistant Professor, Linguistics, University of Alberta
+* 2011-2012: Visiting Assistant Professor and Language Learning Research Fellow, Linguistics, University of Michigan
+* 2013-2016: Associate Professor, Linguistics, University of Alberta
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2017: Lecturer I, Linguistics, University of Michigan
+* 2017-2018: Lecturer I, Psychology, University of Michigan
+* 2017-present: Research Investigator, Center for Human Growth and Development, University of Michigan
+* 2017-present: Adjunct Professor, Linguistics, Simon Fraser University
+
+* 2019- Assistant Professor, Linguistics, University of British Columbia
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +45,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+**Advising**
 ======
-* Currently signed in to 43 different slack teams
+At the University of Alberta:
+*
+
+At the University of Michigan:
+*
