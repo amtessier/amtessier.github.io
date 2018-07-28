@@ -49,8 +49,14 @@ Teaching
   
 **Advising**
 ======
-At the University of Alberta:
-*
+*At the University of Alberta* 
+* Lisa Elliott, B.A. Honours Thesis, 2008.
+* Jeff Klassen, B.A. Honours, 2009.
+* Marnie Krauss, M.Sc., 2008. 
+* Tamara Sorenson Duncan, M.Sc. (co-advised with Johanne Paradis), 2010.
+* Tsung-Ying Chen, Ph.D. (co-advised with Robert Kirchner), 2012. 
+* Generals Papers supervised: Corey Telfer, Saliu Shittu, Lena Vasilyeva, Kayla Day.
 
-At the University of Michigan:
-*
+*At the University of Michigan*
+* Rennie Pasquinelli, B.A. Honours Thesis (co-advised with Ioulia Kovelman) 2018.
+* Generals Papers supervised: Justin Craft (co-advised with Andries Coetzee).
