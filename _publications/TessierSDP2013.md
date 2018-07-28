@@ -13,4 +13,4 @@ This study focuses on English onset cluster production in spontaneous speech sam
 
 [Download paper here](http://journals.cambridge.org/abstract_S136672891200048X)
 
-Recommended citation: Tessier, A.M., T. Sorenson Duncan and J. Paradis. (2013). Developmental trends and L1 effects in early L2 learners' onset cluster production. <i>Bilingualism: Language and Cognition</i>. 16(3).
+Recommended citation: 'Tessier, A.M., T. Sorenson Duncan and J. Paradis. (2013). Developmental trends and L1 effects in early L2 learners' onset cluster production. <i>Bilingualism: Language and Cognition</i>. 16(3).'
