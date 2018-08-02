@@ -3,7 +3,6 @@ title: "Teaching at the LSA Summer Institute"
 collection: teaching
 type: "2013-2017"
 permalink: /teaching/TeachingLSA
-date: ""
 venue: ""
 location: ""
 ---
