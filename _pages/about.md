@@ -15,7 +15,8 @@ After completing my Ph.D. at Umass Amherst in 2006, I was appointed as an Assist
 
 What's New?
 ------
-Updates very soon. Feel free to ask. 
+So far this site contains links to my publications, many of which work, and my CV including teaching and advising experience. 
+What's still missing are links to talks and posters, and what's very missing is a link to my new UBC lab website, to be appear at some point in 2019. *If any of the links are broken, or if you don't have access to any of them, feel free to email me to get a copy.*
 
 **About my website**
 ------
