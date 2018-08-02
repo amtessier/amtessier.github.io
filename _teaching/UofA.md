@@ -6,8 +6,6 @@ permalink: /teaching/UofA
 venue: "Linguistics"
 location: "Edmonton, Alberta"
 ---
-Undergraduate Courses: *Introduction to Linguistics, Phonology, Phonological Acquisition, Language Acquisition.*
-
-Graduate Courses: *Phonology I, Phonology II, Research Methods*
-
+Undergraduate Courses: *Introduction to Linguistics, Phonology, Phonological Acquisition, Language Acquisition.*<br>
+Graduate Courses: *Phonology I, Phonology II, Research Methods*<br>
 Independent Studies and Seminars: *To Be Added*
