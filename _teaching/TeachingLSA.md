@@ -6,5 +6,5 @@ permalink: /teaching/TeachingLSA
 venue: ""
 location: ""
 ---
-2013 LSA Summer Institute, University of Michigan: Phonological Acquisition
+2013 LSA Summer Institute, University of Michigan: Phonological Acquisition<br>
 2017 LSA Summer Institute, University of Kentucky: The Timecourse of Bilingual Phonologies
