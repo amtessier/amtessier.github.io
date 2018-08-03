@@ -8,3 +8,5 @@ date: 2016-10-01
 location: "University of Southern California"
 ---
 This pilot study shows that children’s acceptance of English onset cluster errors is quite variable, even when their cluster production has stabilized. Nevertheless their acceptance ‘errors’ are in large part phonologically-systematic – so how should they be explained? 
+
+[Download poster here](http://amtessier.github.io/files/TessierFarrisTrimbleVasilyeva2016.pdf)
