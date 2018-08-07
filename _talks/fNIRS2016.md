@@ -1,7 +1,7 @@
 ---
 title: "Do you know these sounds?  Left hemisphere shows greater activation to high frequency language phonotactics in infants but not in adults"
 collection: talks
-type: "Talk"
+type: "Conference presentation"
 permalink: /talks/fNIRS2016
 venue: "Biennial Meeting of the Society for fNIRS"
 date: 2016-10-01
