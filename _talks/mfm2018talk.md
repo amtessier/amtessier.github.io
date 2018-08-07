@@ -1,7 +1,7 @@
 ---
 title: "Learning phonology and the legacy of SPE"
 collection: talks
-type: "Conference proceedings talk"
+type: "Invited talk"
 permalink: /talks/mfm2018talk
 venue: "Manchester Phonology Meeting"
 date: 2018-05-25
