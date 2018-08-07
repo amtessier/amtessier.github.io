@@ -1,7 +1,7 @@
 ---
 title: "Phonological development and children's variable acceptability judgments of onset clusters"
 collection: talks
-type: "Talk"
+type: "Conference poster"
 permalink: /talks/AMP2016poster
 venue: "Annual Meeting of Phonology 2016"
 date: 2016-10-01
