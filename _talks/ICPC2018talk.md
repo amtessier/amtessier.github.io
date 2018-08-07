@@ -1,7 +1,7 @@
 ---
 title: "Phonological processing and neuro-imaging, with and without cochlear implants"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference presentations"
 permalink: /talks/ICPC2018talk
 venue: "International Child Phonology Conference"
 date: 2018-06-19
