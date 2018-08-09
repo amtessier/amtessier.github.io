@@ -61,6 +61,11 @@ p {
   margin-bottom: 1.3em;
 }
 
+/*Specifying my main text size via JRT-proscribed rule*/
+
+div.amtText {
+   font-size: 20px;
+}
 u,
 ins {
   text-decoration: none;
