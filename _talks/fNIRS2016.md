@@ -5,9 +5,12 @@ type: "Conference presentation"
 permalink: /talks/fNIRS2016
 venue: "Biennial Meeting of the Society for fNIRS"
 date: 2016-10-01
-location: "University of Paris Descartes"
+location: "University of Paris Dscartes"
 ---
-
+<div class="amtText" markdown="1">
 *With S. Biconti, R. Lajiness-O'Neill, N. Wagley, K. Lengu, T. Nyman, A.M. Flores, T. Andersen, C. Swick, A. Richard, E. Hodges, X. Hu,  and I. Kovelman*
+</div>
 
-Add poster info
+<div class="amtText" markdown="1">
+If you are interested in this preliminary work - email me!
+</div>
