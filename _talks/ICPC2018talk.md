@@ -11,5 +11,7 @@ location: "Institute for Monolingual and Bilingual Speech, Chania, Crete"
 *With R. Pasquinelli, J. Kim, J. Brown, G. Basura, T. Zwolan, X. Hu and I. Kovelman*
 </div>
 
+<div class="amtText" markdown="1">
 This study reports two English phonological processing tasks -- rhyme judgment and sentence prosody matching -- with children ages 7-11 who received a cochlear implant before age 2, compared to age-matched children with normal hearing. While completing these tasks, children’s brain activation was simultaneously registered using functional near-infrared spectroscopy (fNIRS). The resulting differences between populations and task conditions, and correlations with some non-linguistic processing measures (backwards digit span), support our ongoing investigation of how individual variation in CI outcomes might be explained.
+</div>
 
