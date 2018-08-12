@@ -19,5 +19,5 @@ Functional near infrared spectroscopy (fNIRS) is an emerging non-invasive techno
 </div>
 
 <div class="amtText" markdown="1">
-Recommended citation: Basura, G., X. Hu, J. San Juan, A.M. Tessier and I. Kovelman. (to appear). Human Central Auditory Plasticity; a Review of functional Near-Infrared Spectroscopy (fNIRS) to Measure Cochlear Implant Performance and Tinnitus Perception. Laryngoscope Investigative Otolaryngology. X(X).
+Recommended citation: Basura, G., X. Hu, J. San Juan, A.M. Tessier and I. Kovelman. (to appear). Human Central Auditory Plasticity; a Review of functional Near-Infrared Spectroscopy (fNIRS) to Measure Cochlear Implant Performance and Tinnitus Perception.<i>Laryngoscope Investigative Otolaryngology.</i> X(X).
 </div>
