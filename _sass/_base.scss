@@ -61,7 +61,23 @@ p {
   margin-bottom: 1.3em;
 }
 
-/*Specifying my main text size via JRT-proscribed rule*/
+/*Specifying a SERIES of text sizes via JRT-proscribed rules*/
+
+p.amtCitation {
+   font-size: 13px;
+}
+
+p.amtExcerpt {
+   font-size: 13px;
+}
+
+p.amtVenue {
+   font-size: 13px;
+}
+
+p.amtDate {
+   font-size: 13px;
+}
 
 div.amtText {
    font-size: 15px;
