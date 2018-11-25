@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/FarrisTrimbleTessier2018
 excerpt: 'This paper examines the recognition of words that have undergone Canadian Raising and/or intervocalic flapping. Two eye-tracking experiments suggest that listeners are slower to fixate words that have undergone one or more phonological processes within their own Raising dialect, supporting the idea that they must calculate a mapping from surface word forms to more abstract representations.'
 dateLite: 2019
+date: 2019-01-01
 publicationText: To be published in
 venue: 'Language: Research Reports'
 paperurl: 'http://amtessier.github.io/files/FarrisTrimbleTessier2018.pdf'
