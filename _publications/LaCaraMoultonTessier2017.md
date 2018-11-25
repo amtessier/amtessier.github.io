@@ -2,7 +2,7 @@
 title: "A Schrift to Fest Kyle Johnson (edited volume)"
 collection: publications
 permalink: /publication/LaCaraMoultonTessier2017
-excerpt: 'This volume of forty-three papers celebrates Kyle Johnson's contribution to linguistics. Written by Johnson’s colleagues and former students, the papers touch upon topics that have defined Johnson’s career, including verb movement, ellipsis, gapping, Germanic, extraposition, quantifiers and determiners, object positions, among others.'
+excerpt: "This volume of forty-three papers celebrates Kyle Johnson's contribution to linguistics. Written by Johnson’s colleagues and former students, the papers touch upon topics that have defined Johnson’s career, including verb movement, ellipsis, gapping, Germanic, extraposition, quantifiers and determiners, object positions, among others."
 date: 2017-07-09
 venue: 'Linguistics Open Access Publications'
 paperurl: 'http://scholarworks.umass.edu/linguist_oapubs/1/'
