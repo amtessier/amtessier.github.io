@@ -14,13 +14,15 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% assign items = site.publications | sort: 'date' %}
+
+{% for post in items reversed %}
   {% if (post.publicationText %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-{% for post in site.publications reversed %}
+{% for post in items reversed %}
   {% if (post.publicationText %}
     {% assign goober = "Done already" %}
   {% else %}
