@@ -31,12 +31,14 @@ Appointments
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  {% assign items = site.publications | sort: 'date' %}
+  <ul>{% for post in items %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
+  {% assign items = site.talks | sort: 'date' %}
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
