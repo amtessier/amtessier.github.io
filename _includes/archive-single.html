@@ -55,8 +55,6 @@
         {% elsif post.collection == 'publications' %}
 	  {% if post.coAuthors %}
 	  	<p class="amtCoauthors">with {{ post.coAuthors }} </p>
-	  {% else %}
-	  	<p class="amtCoauthors">All by herself</p>
 	  {% endif %}
 	  {% if post.dateLite %}
 	  	<p class="amtVenue">{{ pubText }} <i>{{ post.venue }}</i>, {{ post.dateLite }} </p>
