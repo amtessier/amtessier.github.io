@@ -12,7 +12,7 @@ redirect_from:
 <div class="amtText" markdown="1">
 Education
 ======
-* B.A. Honours, Linguistics, McGill University, 2001 - Thesis Advisor Heather Goad
+* B.A. Honours, Linguistics, McGill University, 2001 - Advisor Heather Goad
 * Ph.D., Linguistics, UMass Amherst, 2007 - Advisor Joe Pater
 
 Appointments
@@ -21,12 +21,10 @@ Appointments
 * 2011-2012: Visiting Assistant Professor and Language Learning Research Fellow, Linguistics, University of Michigan
 * 2013-2016: Associate Professor, Linguistics, University of Alberta
 
-
 * 2016-2017: Lecturer I, Linguistics, University of Michigan
 * 2017-2018: Lecturer I, Psychology, University of Michigan
 * 2017-present: Research Investigator, Center for Human Growth and Development, University of Michigan
 * 2017-present: Adjunct Professor, Linguistics, Simon Fraser University
-
 
 * 2019- Assistant Professor, Linguistics, University of British Columbia
   
@@ -39,14 +37,16 @@ Publications
   
 Talks
 ======
-  {% assign items = site.talks | sort: 'date' %}
+<i>Note: the only talks listed currently are recent things, for which there is no associated paper... For any other talks you think I've given, freel free to email.</i> 
+ 
+ {% assign items = site.talks | sort: 'date' %}
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-For the courses I'm currently teaching, and my office hours, go back to my <a href="amtessier.github.io">main page</a>. <br>
+For the courses I'm currently teaching, and my office hours, go back to my <a href="amtessier.github.io"> main page* </a>. <br>
 For any courses you think I might have taught in the past, at the University of Alberta, the University of Michigan, Simon Fraser University, Michigan State University, or the 2013 or 2017 LSA Summer Institutes -- feel free to email me. <p>
   
 Or! Maybe you would like to see my <a href="https://www.macmillanihe.com/page/detail/Phonological-Acquisition/?K=9780230293762"><b>textbook</b></a>?!
@@ -65,4 +65,8 @@ Or! Maybe you would like to see my <a href="https://www.macmillanihe.com/page/de
 *At the University of Michigan*
 * Rennie Pasquinelli, B.A. Honours Thesis (co-advised with Ioulia Kovelman) 2018.
 * Generals Papers supervised: Justin Craft (co-advised with Andries Coetzee).
+
+*At the University of British Columbia*
+* Emily Sadlier-Brown: Ph.D. thesis committee member
+* Wendy Kwakye Amoako: M.A. thesis committee member
 </div>
