@@ -13,6 +13,4 @@ citation: 'Tessier, A.M. (2012). &quot;Gradual learning and faithfulness: conseq
 This paper investigates a class of restrictive intermediate stages that emerge during L1 phonological acquisition, and argues that these stages are naturally accounted for within a gradual learning model that uses weighted constraints. The particular type of pattern of interest here – Intermediate Faithfulness (IF) stages – involves the preservation of marked structures just in privileged environments. We illustrate this with data from Bat-El (2007), which shows the innovation of morphologically-sensitive phonology during the acquisition of Hebrew.
 
 [Download paper here](https://sites.ualberta.ca/~annemich/JesneyTessier2008_NELS38paper.pdf)
-
-Recommended citation: 'Jesney, K. and A.M. Tessier. (2008). "Gradual learning and faithfulness: consequences of ranked vs. weighted constraints" <i>NELS38 Proceedings</i>.
 </div>
