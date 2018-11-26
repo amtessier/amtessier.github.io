@@ -14,6 +14,10 @@ The Story of How I Got Here
 -----
 After completing my Ph.D. at Umass Amherst in 2006, I was appointed as an Assistant and then Associate Professor in Linguistics at the University of Alberta for a decade, but in 2015/2016 I resigned from that job for family reasons and moved to mid-Michigan. Between 2016 and 2018, I was affiliated with the University of Michigan in Ann Arbor, as a Lecturer occasionally in Linguistics but mostly in Psychology, and as a Research Investigator at the Center for Human Growth and Development, mostly through the generosity of <a href="https://lsa.umich.edu/psych/people/faculty/kovelman.html">Ioulia Kovelman</a>. Since 2016 I have also been an Adjunct Professor in Linguistics at Simon Fraser University, which has housed my SSHRC-funded Insight grant with co-PI <a href="https://www.sfu.ca/linguistics/people/faculty/farris-trimble.html">Ashley Farris-Trimble</a>, predominantly kept aloft by postdoctoral fellow <a href="http://www.clairemoorecantwell.org/">Claire Moore-Cantwell</a>. As of January 2019 I am now at UBC and I'm a bit tired of moving around and wearing twelve hats at once so I think I will sit down and stay a while.
 
+What I Do
+---
+I am primarily a theoretical phonologist who studies acquisition. When I have to put keywords on an abstract, they usually include "constraint-based" and/or "learning algorithms", but I also work on things like lexical avoidance, U-shaped development, L2 production and perception in childhood, prosodic processing with cochlear implants, and shitgibbons. For several years I was an Associate Editor at <a href="https://www.glossa-journal.org/">Glossa</a> (an open access general theoretical linguistics journal), and before that at Lingua before the entire Editorial Board quit and formed Glossa. I have also written an advanced undergraduate textbook about <A href="https://www.macmillanihe.com/page/detail/Phonological-Acquisition/?K=9780230293762">Phonological Acquisition</a> that also teaches the basics of OT along the way.  
+
 What's New?
 ------
 So far this site contains links to my publications, many of which work, and my brief CV.
