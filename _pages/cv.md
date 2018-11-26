@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="amtText" markdown="1">
 Education
 ======
 * B.A. Honours, Linguistics, McGill University, 2001 - Thesis Advisor Heather Goad
@@ -45,9 +46,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+For the courses I'm currently teaching, and my office hours, go back to my <a href="amtessier.github.io">main page</a>. <br>
+For any courses you think I might have taught in the past, at the University of Alberta, the University of Michigan, Simon Fraser University, Michigan State University, or the 2013 or 2017 LSA Summer Institutes -- feel free to email me. <p>
+  
+Or! Maybe you would like to see my <a href="https://www.macmillanihe.com/page/detail/Phonological-Acquisition/?K=9780230293762"><b>textbook</b></a>?!
+
   
 **Advising**
 ======
@@ -62,3 +65,4 @@ Teaching
 *At the University of Michigan*
 * Rennie Pasquinelli, B.A. Honours Thesis (co-advised with Ioulia Kovelman) 2018.
 * Generals Papers supervised: Justin Craft (co-advised with Andries Coetzee).
+</div>
