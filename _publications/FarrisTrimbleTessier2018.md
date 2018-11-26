@@ -7,7 +7,7 @@ dateLite: 2019
 date: 2019-01-01
 publicationText: To be published in
 venue: 'Language: Research Reports'
-coAuthors: Farris-Trimble, Ashley 
+coAuthors: Ashley Farris-Trimble
 paperurl: 'http://amtessier.github.io/files/FarrisTrimbleTessier2018.pdf'
 citation: 'Farris-Trimble, Ashley and Anne-Michelle Tesser. (to appear). &quot;The effect of allophonic processes on word recognition: Eye-tracking evidence from Canadian raising&quot; <i>Language</i>. X(X).'
 ---
