@@ -1,7 +1,7 @@
 ---
 title: "U-shaped development in error-driven child phonology"
 collection: publications
-permalink: /publication/Tessier2019Ushaped
+permalink: /publications/Tessier2019Ushaped
 excerpt: 'Phonological regressions or U‐shaped development have frequently been observed in longitudinal studies of child speech production. However, the typology of which phonological patterns regress, and their implications for learning, have not been given much attention in the recent literature on constraint‐based phonological development. This paper systematically addresses the question of whether or not attested phonological regressions are incompatible with an error‐driven approach to grammatical development. The survey discusses several case studies of phonological regression in the literature, grouped according to their ease of explanation under error‐driven learning'
 date: 2019-11-01
 venue: 'Wiley Interdisciplinary Reviews - Cognitive Science'
