@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div class="amtText" markdown="1">
-Hello and welcome. I am an Assistant Professor of Linguistics at the University of British Columbia in Vancouver, Canada.
+Hello and welcome. I am an Assistant Professor of Linguistics at the University of British Columbia in Vancouver, Canada.<p>
 ** WCCFL38 is coming to UBC in March 2020! Go see <A href="https://wccfl2020.linguistics.ubc.ca/">the WCCFL 2020 conference website</a>!**
 
 The Story of How I Got Here
