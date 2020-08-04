@@ -23,10 +23,11 @@ Appointments
 
 * 2016-2017: Lecturer I, Linguistics, University of Michigan
 * 2017-2018: Lecturer I, Psychology, University of Michigan
-* 2017-present: Research Investigator, Center for Human Growth and Development, University of Michigan
-* 2017-present: Adjunct Professor, Linguistics, Simon Fraser University
+* 2017-2018: Research Investigator, Center for Human Growth and Development, University of Michigan
+* 2017-2021: Adjunct Professor, Linguistics, Simon Fraser University
 
-* 2019- Assistant Professor, Linguistics, University of British Columbia
+* 2019-2020: Assistant Professor, Linguistics, University of British Columbia
+* 2020-present: Associate Professor, Linguistics, University of British Columbia
   
 Publications
 ======
@@ -60,13 +61,18 @@ Or! Maybe you would like to see my <a href="https://www.macmillanihe.com/page/de
 * Marnie Krauss, M.Sc., 2008. 
 * Tamara Sorenson Duncan, M.Sc. (co-advised with Johanne Paradis), 2010.
 * Tsung-Ying Chen, Ph.D. (co-advised with Robert Kirchner), 2012. 
-* Generals Papers supervised: Corey Telfer, Saliu Shittu, Lena Vasilyeva, Kayla Day.
+Generals Papers supervised: Corey Telfer, Saliu Shittu, Lena Vasilyeva, Kayla Day.
 
 *At the University of Michigan*
 * Rennie Pasquinelli, B.A. Honours Thesis (co-advised with Ioulia Kovelman) 2018.
-* Generals Papers supervised: Justin Craft (co-advised with Andries Coetzee).
+Generals Papers supervised: Justin Craft (co-advised with Andries Coetzee).
 
 *At the University of British Columbia*
-* Emily Sadlier-Brown: Ph.D. thesis committee member
-* Wendy Kwakye Amoako: M.A. thesis committee member
+* Wendy Kwakye Amoako, M.A. thesis committee member, 2020.
+
+* Kaili Vesli, PhD student, in progress
+* Emily Sadlier-Brown, Ph.D. student committee member, in progress
+Generals Papers committees: Alex Nastevski, Alexander Angsonga (in progress) 
+
+
 </div>
