@@ -16,6 +16,8 @@ I am at heart a theoretical phonologist who studies acquisition. When I have to 
 
 As of January 2020, I'm an Associate Editor at <a href="https://languagelsa.org/index.php/language"> Language</a>. I have also written an advanced undergraduate textbook about <A href="https://www.macmillanihe.com/page/detail/Phonological-Acquisition/?K=9780230293762">Phonological Acquisition</a> that additionally teaches the basics of OT along the way. (P.S. If you are going to use my textbook for teaching, feel free to email me so I can tell you the things I've realized that don't work in it, to save you the nuisance of discovering them yourself in class. I MUST get an errata page up, I know.)
 
+At present, I'm not teaching anything until January 2021, and so my office hours are by appointment (email me.)
+
 The UBC Child Phonology Lab
 ---
 is a lab of sorts that I run, and whose website will be here very soon thanks to my stupendous summer RA Penny Raymond. Come back soon (before Sept 2020) to see pictures of lab members dogs and also probably some actual content.
