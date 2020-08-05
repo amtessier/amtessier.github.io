@@ -10,7 +10,7 @@ redirect_from:
 <div class="amtText" markdown="1">
 Hello and welcome. I am an Associate Professor of Linguistics at the University of British Columbia in Vancouver, Canada.
 
-NEW: My <a href="childphonlab.arts.ubc.ca">UBC Child Phonology Lab Website</A>! 
+NEW: My <a href="http://childphonlab.arts.ubc.ca">UBC Child Phonology Lab Website</A>! 
 ---
 Many thanks to summer RA extraordinaire Penny Raymond for bringing this site to life. 
 
