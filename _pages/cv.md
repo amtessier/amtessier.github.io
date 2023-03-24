@@ -47,8 +47,8 @@ Talks
   
 Teaching
 ======
-These days I teach various undergraduate and graduate courses in phonology, language acquisition, and other stuff probably. Most years I teach LING451, Acquisition of Phonology, in the January-April semester. If you're curious about a class I might teach, or my office hours, just email me. </a>. <br>
-For any courses you think I might have taught in the past, at UBC, the University of Alberta, the University of Michigan, Simon Fraser University, Michigan State University, or the 2013 or 2017 LSA Summer Institutes -- feel free to email me. <p>
+These days I teach various undergraduate and graduate courses in phonology, language acquisition, and other stuff probably. Most years I teach LING451, Acquisition of Phonology, in the January-April semester. If you're curious about a class I might teach, or my office hours, just email me. <br>
+For any courses you think I might have taught in the past, at UBC, the University of Alberta, the University of Michigan, Simon Fraser University, Michigan State University, or the 2013 or 2017 LSA Summer Institutes -- feel free to email me.
   
 Or! Maybe you would like to see my <a href="https://www.bloomsbury.com/ca/phonological-acquisition-9780230293762/"><b>textbook</b></a>?!
 
