@@ -10,8 +10,8 @@ date: 2005-01-01
 coAuthors: with Joe Pater
 venue: 'University of Massachusetts Occasional Papers volume 31'
 paperurl: 'https://sites.ualberta.ca/~annemich/Pater-Tessier%202005UMOP31.pdf'
-citation: 'Pater, J. and A. M. Tessier. (2005). &quot;Phonotactics and alternations: Testing the connection with artificial language learning&quot; <i>University of Massachusetts Occasional Papers (UMOP)</i> volumer 31.'
+citation: 'Pater, J. and A. M. Tessier. (2005). &quot;Phonotactics and alternations: Testing the connection with artificial language learning&quot; <i>University of Massachusetts Occasional Papers (UMOP)</i> volume 31.'
 ---
 <div class="amtText" markdown="1">
-[Download paper here](https://sites.ualberta.ca/~annemich/Pater-Tessier%202005UMOP31.pdf)
+An earlier version, from the Proceedings of ICPhS 2003: [Download paper here](https://childphonlab.arts.ubc.ca/other-publications/21_PaterTessier2003/)
 </div>
