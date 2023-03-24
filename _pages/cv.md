@@ -47,32 +47,41 @@ Talks
   
 Teaching
 ======
-For the courses I'm currently teaching, and my office hours, go back to my <a href="amtessier.github.io"> main page* </a>. <br>
-For any courses you think I might have taught in the past, at the University of Alberta, the University of Michigan, Simon Fraser University, Michigan State University, or the 2013 or 2017 LSA Summer Institutes -- feel free to email me. <p>
+These days I teach various undergraduate and graduate courses in phonology, language acquisition, and other stuff probably. Most years I teach LING451, Acquisition of Phonology, in the January-April semester. If you're curious about a class I might teach, or my office hours, just email me. </a>. <br>
+For any courses you think I might have taught in the past, at UBC, the University of Alberta, the University of Michigan, Simon Fraser University, Michigan State University, or the 2013 or 2017 LSA Summer Institutes -- feel free to email me. <p>
   
-Or! Maybe you would like to see my <a href="https://www.macmillanihe.com/page/detail/Phonological-Acquisition/?K=9780230293762"><b>textbook</b></a>?!
+Or! Maybe you would like to see my <a href="https://www.bloomsbury.com/ca/phonological-acquisition-9780230293762/"><b>textbook</b></a>?!
 
   
-**Advising**
+**Advising** 
 ======
-*At the University of Alberta* 
-* Lisa Elliott, B.A. Honours Thesis, 2008.
-* Jeff Klassen, B.A. Honours, 2009.
-* Marnie Krauss, M.Sc., 2008. 
-* Tamara Sorenson Duncan, M.Sc. (co-advised with Johanne Paradis), 2010.
-* Tsung-Ying Chen, Ph.D. (co-advised with Robert Kirchner), 2012. 
-Generals Papers supervised: Corey Telfer, Saliu Shittu, Lena Vasilyeva, Kayla Day.
+*At the University of British Columbia*
+* Kaili Vesli, PhD student, in progress
+* Sijia Zhang, PhD student, in progress
+* Zara Gazelle Khalaji, MA student, in progress
+
+* Edward Leung, BA Honours Thesis (in progress)
+* Lauren Denusik, BA Honours Thesis (2020)
+
+MA Thesis Committees: Gina Pineda Mora (2021), Wendy Amoako (2020) 
+PhD Thesis Committee: Emily Sadlier-Brown (in progress), Alex Ayala (in progress)
+
+Generals Papers committees: Alexander Angsonga  
 
 *At the University of Michigan*
 * Rennie Pasquinelli, B.A. Honours Thesis (co-advised with Ioulia Kovelman) 2018.
+
 Generals Papers supervised: Justin Craft (co-advised with Andries Coetzee).
+  
+*At the University of Alberta* 
+* Tsung-Ying Chen, Ph.D. (co-advised with Robert Kirchner), 2012. 
+* Tamara Sorenson Duncan, M.Sc. (co-advised with Johanne Paradis), 2010.
+* Marnie Krauss, M.Sc., 2008. 
 
-*At the University of British Columbia*
-* Wendy Kwakye Amoako, M.A. thesis committee member, 2020.
+* Jeff Klassen, B.A. Honours Thesis, 2009.
+* Lisa Elliott, B.A. Honours Thesis, 2008.
 
-* Kaili Vesli, PhD student, in progress
-* Emily Sadlier-Brown, Ph.D. student committee member, in progress
-Generals Papers committees: Alex Nastevski, Alexander Angsonga (in progress) 
+Generals Papers supervised: Corey Telfer, Saliu Shittu, Lena Vasilyeva, Kayla Day.
 
 
 </div>
