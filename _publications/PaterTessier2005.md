@@ -7,11 +7,11 @@ learning experiment to test whether an alternation that meets a phonotactic targ
 that differed only in whether the alternations were motivated by the phonotactics of their native language. The results suggest that phonotactic knowledge does aid in the acquisition
 of alternations, and also provide a novel example of the influence of the first language on second language learning.'
 date: 2005-01-01
-coAuthors: with Joe Pater
+coAuthors: Joe Pater
 venue: 'University of Massachusetts Occasional Papers volume 31'
-paperurl: 'https://sites.ualberta.ca/~annemich/Pater-Tessier%202005UMOP31.pdf'
-citation: 'Pater, J. and A. M. Tessier. (2005). &quot;Phonotactics and alternations: Testing the connection with artificial language learning&quot; <i>University of Massachusetts Occasional Papers (UMOP)</i> volume 31.'
+paperurl: 'https://childphonlab.arts.ubc.ca/other-publications/21_PaterTessier2003/'
+citation: 'Pater, J. and A. M. Tessier. (2005). &quot;Phonotactics and alternations: Testing the connection with artificial language learning&quot; <i>University of Massachusetts Occasional Papers (UMOP)</i> volume 31. <i> Note that the downloadable paper here is an earlier version, from the Proceedings of ICPhS 2003.'
 ---
 <div class="amtText" markdown="1">
-An earlier version, from the Proceedings of ICPhS 2003: [Download paper here](https://childphonlab.arts.ubc.ca/other-publications/21_PaterTessier2003/)
+[Download paper here](https://childphonlab.arts.ubc.ca/other-publications/21_PaterTessier2003/)
 </div>
