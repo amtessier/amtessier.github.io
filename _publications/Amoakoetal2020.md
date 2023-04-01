@@ -2,7 +2,7 @@
 title: "Acquisition of consonants among typically developing Akan-speaking children: A preliminary report"
 collection: publications
 permalink: /publication/Amoakoetal2020
-excerpt: 'Although Akan is one of the most widely spoken indigenous languages in Ghana, very little is known about children's phonological development. This paper investigates the development of consonants in Akan among typically developing children aged 3-5 years.'
+excerpt: 'Although Akan is one of the most widely spoken indigenous languages in Ghana, very little is known about childrens phonological development. This paper investigates the development of consonants in Akan among typically developing children aged 3-5 years.'
 date: 2022-12-01
 venue: 'International Journal of Speech Language Pathology'
 coAuthors: Wendy Amoako, Joseph Stemberger and Barbara May Bernhardt
