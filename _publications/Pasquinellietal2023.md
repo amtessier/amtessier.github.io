@@ -2,7 +2,7 @@
 title: "The Development of Left Hemisphere Lateralization for Sentence-Level Prosodic Processing"
 collection: publications
 permalink: /publication/Pasquinellietal2023
-excerpt: 'The fine-tuning of linguistic prosody in later childhood is poorly understood, and its neurological processing is even less well studied. Normal-hearing (NH) children ages 6–12 years and NH adults ages 18–28 years completed a functional near-infrared spectroscopy neuroimaging task, during which they heard sentence pairs and judged whether the sentences did or did not differ in their overall prosody. Results showed age group differences; children exhibited stronger bilateral temporoparietal activity but reduced left frontal activation. Furthermore, children's performance on a nonword repetition test was significantly associated with activation in the left inferior frontal gyrus.'
+excerpt: 'The fine-tuning of linguistic prosody in later childhood is poorly understood, and its neurological processing is even less well studied. Normal-hearing (NH) children ages 6–12 years and NH adults ages 18–28 years completed a functional near-infrared spectroscopy neuroimaging task, during which they heard sentence pairs and judged whether the sentences did or did not differ in their overall prosody. Results showed age group differences; children exhibited stronger bilateral temporoparietal activity but reduced left frontal activation. Furthermore, childrens performance on a nonword repetition test was significantly associated with activation in the left inferior frontal gyrus.'
 date: 2023-03-27
 venue: 'JSLHR'
 coAuthors: R. Pasquinelli, Z. Karas, X. Hu and I. Kovelman
