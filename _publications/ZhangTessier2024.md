@@ -1,3 +1,4 @@
+---
 title: "Modeling the consequences of an L1 grammar for L2 production: simulations, variation, and predictions"
 collection: publications
 permalink: /publication/ZhangTessier2024
