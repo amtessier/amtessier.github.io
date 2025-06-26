@@ -39,32 +39,23 @@ Or! Maybe you would like to see my <a href="https://www.bloomsbury.com/ca/phonol
 **Advising** 
 ======
 *At the University of British Columbia*
-* Kaili Vesli, PhD student, in progress
-* Sijia Zhang, PhD student, in progress
-* Zara Gazelle Khalaji, MA student, in progress
+* Sijia Zhang, PhD candidate, in progress
+* Kaili Vesik, Ph.D. (2025)
+* Zara Gazelle Khalaji, M.A. (2025)
 
-* Edward Leung, BA Honours Thesis (in progress)
+* Edward Leung, BA Honours Thesis (2023)
 * Lauren Denusik, BA Honours Thesis (2020)
 
-MA Thesis Committees: Gina Pineda Mora (2021), Wendy Amoako (2020) 
-PhD Thesis Committee: Emily Sadlier-Brown (in progress), Alex Ayala (in progress)
-
-Generals Papers committees: Alexander Angsonga  
-
 *At the University of Michigan*
-* Rennie Pasquinelli, B.A. Honours Thesis (co-advised with Ioulia Kovelman) 2018.
-
-Generals Papers supervised: Justin Craft (co-advised with Andries Coetzee).
+* Rennie Pasquinelli, B.A. Honours Thesis (2018) co-advised with Ioulia Kovelman.
   
 *At the University of Alberta* 
-* Tsung-Ying Chen, Ph.D. (co-advised with Robert Kirchner), 2012. 
-* Tamara Sorenson Duncan, M.Sc. (co-advised with Johanne Paradis), 2010.
-* Marnie Krauss, M.Sc., 2008. 
+* Tsung-Ying Chen, Ph.D. (2012) co-advised with Robert Kirchner 
+* Tamara Sorenson Duncan, M.Sc. (2010) co-advised with Johanne Paradis
+* Marnie Krauss, M.Sc. (2008). 
 
-* Jeff Klassen, B.A. Honours Thesis, 2009.
-* Lisa Elliott, B.A. Honours Thesis, 2008.
-
-Generals Papers supervised: Corey Telfer, Saliu Shittu, Lena Vasilyeva, Kayla Day.
+* Jeff Klassen, B.A. Honours Thesis (2009)
+* Lisa Elliott, B.A. Honours Thesis (2008)
 
 Publications
 ======
