@@ -12,7 +12,7 @@ Hello and welcome. I am an Associate Professor of Linguistics at the University 
 
 My <a href="http://childphonlab.arts.ubc.ca">UBC Child Phonology Lab Website</A>! 
 ---
-Many thanks to RAs Penny Raymond and Danielle Lefebvre for bringing this site to life, and to Yoann Léveillé for currently keeping it going.  
+Many thanks to former RAs Penny Raymond, Danielle Lefebvre, and Akie Leesmith for bringing this site to life...
 
 What I Do
 ---
